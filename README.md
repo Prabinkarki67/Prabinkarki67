@@ -6,7 +6,10 @@ AI/ML Enthusiast | Embedded Systems | Computer Vision | Microcontollers | Comput
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI%2FML+Enthusiast;Edge+AI+%26+TinyML+Learner;Computer+Vision+Enthusiast;Embedded+Systems+Learner;Building+Real-World+AI+Solutions" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Exploring+AI+%26+ML;Learning+Edge+AI+%26+TinyML;Building+Computer+Vision+Projects;Experimenting+with+Embedded+Systems;Learning+by+Building"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
